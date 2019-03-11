@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	color: #e6b800;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+
+}
+
+h2 {
+	text-align: left;
+	color: #e6b800;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+
+}
+
+body {
+	background-image: url("1.jpg");
+	background-size: cover;
+	
+}
+
+li {
+	display: block;
+	color: #e6b800;
+	font-size: 25px;
+	font-family: 'Permanent Marker', cursive;
+	margin: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: #e6b800;
+}
+
+p {
+	
+	color: #e6b800
+	font-family: 'Permanent Marker', cursive;
+	font-size: 25px;
+
+}
+
+

@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+	color: #00ccff;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+
+}
+
+h2 {
+	text-align: left;
+	color: #00ccff;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+
+}
+
+body {
+	background-image: url("2.jpeg");
+	background-size: cover;
+	
+}
+
+a{
+	text-decoration: none;
+	color: #00ccff;
+}
+
+p {
+	
+	color: white;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 25px;
+
+}
+
+

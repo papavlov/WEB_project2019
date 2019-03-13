@@ -6,6 +6,14 @@ h1 {
 
 }
 
+h2 {
+	text-align: center;
+	color: #00ccff;
+	font-family: 'Caveat Brush', cursive;
+	font-size: 50px;
+
+}
+
 body{
 	background-image: url("main1.jpg");
 	background-size: cover;

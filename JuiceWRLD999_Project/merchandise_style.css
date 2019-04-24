@@ -14,12 +14,35 @@ h2 {
 
 }
 
+a:hover{
+	text-decoration: none;
+	color: #00ccff;
+}
+
+a{
+	text-decoration: none;
+	color: #00ccff;
+}
+
+h3 {
+	text-align: left;
+	color: #00ccff;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+
+}
+
 body {
-	background-image: url("4.jpg");
-	background-size: cover;
+	background-color: white;
+	min-height:100%;
+  	background:linear-gradient(0deg,rgba(255, 255,255,0.3),rgba(255,255,255,0.3)), url("4.jpg");
+  	background-size:cover;
 	
 }
 
+.bundles {
+	width:400px;
+}
 
 
 ul {
@@ -31,10 +54,6 @@ ul {
 }
 
 
-a{
-	text-decoration: none;
-	color: #00ccff;
-}
 
  /* Dropdown Button */
 .dropbtn {

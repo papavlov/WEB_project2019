@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+	margin-top:300px;
+	color: #cc0000;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+
+}
+
+h2 {
+	text-align: center;
+	color: #cc0000;
+	font-family: 'Caveat Brush', cursive;
+	font-size: 50px;
+
+}
+
+body {
+  background:url("albums.jpg");
+  background-size:cover;
+
+}

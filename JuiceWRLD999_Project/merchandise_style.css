@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 40px;
 
@@ -8,7 +8,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Caveat Brush', cursive;
 	font-size: 50px;
 
@@ -21,12 +21,12 @@ a:hover{
 
 a{
 	text-decoration: none;
-	color: #00ccff;
+	color: #ffcc00;
 }
 
 h3 {
 	text-align: left;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 20px;
 
@@ -37,7 +37,7 @@ body {
 	min-height:100%;
   	background:linear-gradient(0deg,rgba(255, 255,255,0.3),rgba(255,255,255,0.3)), url("4.jpg");
   	background-size:cover;
-	
+
 }
 
 .bundles {
@@ -59,7 +59,7 @@ ul {
 .dropbtn {
   background-color: #00ccff;
   color: white;
-	
+
   padding: 25px;
   font-size: 20px;
   border: none;
@@ -100,4 +100,4 @@ ul {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color:	#00ccff;} 
+.dropdown:hover .dropbtn {background-color:	#00ccff;}

@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	color: #00ccff;
+	color: #cc0000;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 40px;
 
@@ -8,7 +8,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: #00ccff;
+	color: #cc0000;
 	font-family: 'Caveat Brush', cursive;
 	font-size: 50px;
 
@@ -17,17 +17,17 @@ h2 {
 
 a:hover{
 	text-decoration: none;
-	color: #00ccff;
+	color: #ffcc00;
 }
 
 a{
 	text-decoration: none;
-	color: #00ccff;
+	color: #cc0000;
 }
 
 h3 {
 	text-align: left;
-	color: #00ccff;
+	color: #cc0000;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 20px;
 	text-decoration:none;
@@ -35,26 +35,41 @@ h3 {
 }
 
 h4 {
-	text-align: center;
+
 	color:#cc0000;
 	font-family: 'Caveat Brush', cursive;
 	font-size: 40px;
+	margin-right:30px;
+	text-align: center;
+
+}
+
+h5 {
+
+	color:#cc0000;
+	font-family: 'Caveat Brush', cursive;
+	font-size: 20px;
 	margin-right:30px;
 
 
 }
 
+
+
 body {
-	background-color: white;
-	min-height:100%;
-  	background:linear-gradient(0deg,rgba(255, 255,255,0.3),rgba(255,255,255,0.3)), url("4.jpg");
-  	background-size:cover;
 	
+  background:url("albums.jpg");
+  background-size:cover;
+
 }
 
-.bundles {
-	width:300px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
+
 
 
 
@@ -65,5 +80,4 @@ ul {
 	  overflow: hidden;
 	  background-color: #333;
 }
-
 

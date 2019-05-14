@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 40px;
 
@@ -8,7 +8,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Caveat Brush', cursive;
 	font-size: 50px;
 
@@ -22,12 +22,12 @@ a:hover{
 
 a{
 	text-decoration: none;
-	color: #00ccff;
+	color: #ffcc00;
 }
 
 h3 {
 	text-align: left;
-	color: #00ccff;
+	color: #ffcc00;
 	font-family: 'Permanent Marker', cursive;
 	font-size: 20px;
 	text-decoration:none;
@@ -49,8 +49,10 @@ body {
 	min-height:100%;
   	background:linear-gradient(0deg,rgba(255, 255,255,0.3),rgba(255,255,255,0.3)), url("4.jpg");
   	background-size:cover;
-	
+
 }
+
+
 
 .bundles {
 	width:300px;
@@ -65,5 +67,3 @@ ul {
 	  overflow: hidden;
 	  background-color: #333;
 }
-
-
